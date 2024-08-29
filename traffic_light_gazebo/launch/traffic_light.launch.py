@@ -23,7 +23,7 @@ def generate_launch_description():
 
     # Declare launch arguments
     verbose_arg = DeclareLaunchArgument('verbose', default_value='false', description='Enable verbose mode for Gazebo')
-    world_arg = DeclareLaunchArgument('world', default_value='teknofest.world', description=f'Choose an available world to launch in Gazebo: {availableWorlds}')
+    world_arg = DeclareLaunchArgument('world', default_value='empty.world', description=f'Choose an available world to launch in Gazebo: {availableWorlds}')
 
     # Include Gazebo launch
     gazeboLaunch = IncludeLaunchDescription(gazebo_simulator, launch_arguments={'world': pathWorldFile, 'verbose': verbose}.items())
