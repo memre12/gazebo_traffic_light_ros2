@@ -42,6 +42,10 @@ This plugin is designed to control and simulate traffic lights in a Gazebo envir
 ![Screenshot from 2024-08-29 13-07-56](https://github.com/user-attachments/assets/5a8f8d4e-3b1c-4e14-b4c0-4d9d28b8354f)
 
 ##
+![Screenshot from 2024-08-29 13-44-11](https://github.com/user-attachments/assets/1335d04a-b3a6-4f40-a378-3a279296990f)
+
+
+##
 ![Screenshot from 2024-08-29 13-08-09](https://github.com/user-attachments/assets/917abe73-817f-4bc9-98b5-8c8d8f6152b9)
 
 
